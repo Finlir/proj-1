@@ -2,3 +2,15 @@
   margin: 0px;
   padding: 0px;
 }
+
+header {
+  background-color: #00A47F;
+  height: 280px;
+}
+
+.title {
+  color: #0C0059;
+  font-size: 48px;
+  letter-spacing: 10%;
+  font-weight: black;
+}
